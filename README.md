@@ -8,7 +8,7 @@ Python turtle is a module in the Python programming language that allows for sim
 You can play around with the code and turtle methods to create the landscape you want.
 
 
-<img src="
+<img src="https://user-images.githubusercontent.com/122405126/212963830-d5e56339-d27b-4d63-b497-6899421229a6.png"  style="border:5px solid black">
 
 
 **User Defined Functions**
@@ -52,4 +52,4 @@ You can play around with the code and turtle methods to create the landscape you
 
 **Cutting out**
 
-** Ta Daaa! **
+
